@@ -16,6 +16,8 @@ const userSchema=new mongoose.Schema({
         type:Number,
 
     }
+},{
+    timestamps:true
 })
 
 // create Model 
