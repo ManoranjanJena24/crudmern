@@ -40,3 +40,6 @@ aur joo input field see bahar niklanee kee liyee use kartee hai req.body
 
 ## CORS ISSUE 
 ## frontend is saying kee meinee aapkoo allow kiyaa hai sirf yeh  http://localhost:3000 url  toh nayaa url kahaan see agaya
+
+
+hiiiiiiiiiiiiiiiiiii
